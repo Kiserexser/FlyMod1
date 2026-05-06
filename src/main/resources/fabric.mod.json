@@ -1,7 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "easycheat",
+  "id": "cheatmod",
   "version": "1.0.0",
-  "name": "EasyCheat",
-  "entrypoints": {"main": ["com.easy.cheat.CheatMod"]}
+  "name": "CheatMod",
+  "entrypoints": {
+    "main": ["com.cheat.CheatMod"]
+  }
 }
